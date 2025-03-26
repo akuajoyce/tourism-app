@@ -1,4 +1,4 @@
-import Footer from "../components/footer";
+import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import p4 from "../assets/images/p4.jpg";
 import food1 from "../assets/images/food1.jpg";
